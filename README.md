@@ -1,4 +1,4 @@
-# patatap_clone
+# Patatap Clone
 
 WHAT IS PATATAP
 
