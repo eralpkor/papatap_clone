@@ -1,3 +1,12 @@
+//var container = document.getElementById("#container");
+
+window.addEventListener("keypress", function(){
+	alert("key pressed");
+	console.log("hello");
+	document.getElementById("container").style.display = "none";
+	
+});
+
 var data = {
 	q: {
 		sound: new Howl({

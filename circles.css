@@ -8,8 +8,9 @@ body, html {
  height: 100%;
  margin: 0;
  font-family: Roboto;
+ background-color: black;
 }
-h6{
+p{
 	letter-spacing: 1.2px;
 	margin: 10px auto 0 auto;
 	height: 40px;
@@ -23,13 +24,14 @@ h6{
     border-radius: 10px;
 }
 #container{
+	margin-top: 25%;
 	display:flex;
     align-items: center;
     justify-content: center;
     background-color: black;
 }
 @media screen and (max-width: 400px){
-	h6{
-		font-size: 1.2em;
+	p{
+		font-size: 19px;
 	}
 }
